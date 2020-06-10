@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4388825d4aa4b0dfa1f803e6a2709db",
+    "revision": "bab55f57af95326adf9f524dd872f233",
     "url": "/avatarLabPro/index.html"
   },
   {
-    "revision": "c00a8e8f9ae5d3438580",
-    "url": "/avatarLabPro/static/css/main.580c46bf.chunk.css"
+    "revision": "834a70e73788fff6f5e9",
+    "url": "/avatarLabPro/static/css/main.fa5b17b5.chunk.css"
   },
   {
     "revision": "ec102557f4deda4f4552",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avatarLabPro/static/js/2.dad8d524.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c00a8e8f9ae5d3438580",
-    "url": "/avatarLabPro/static/js/main.a8466e16.chunk.js"
+    "revision": "834a70e73788fff6f5e9",
+    "url": "/avatarLabPro/static/js/main.3ffedc14.chunk.js"
   },
   {
     "revision": "4e15f27005dee841a0dd",
