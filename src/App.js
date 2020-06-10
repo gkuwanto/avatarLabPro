@@ -63,14 +63,17 @@ class App extends React.Component {
       <div className="App">
         <SearchAppBar />
         <form
-          className="container"
+          className="form"
           style={{ margin: "0 10px" }}
           onSubmit={this.search}
         >
           <TextField
             id="outlined-full-width"
             placeholder="Input your query here"
-            fullWidth
+            style={{
+              width: "100%",
+              margin: "20px",
+            }}
             margin="normal"
             InputLabelProps={{
               shrink: true,
@@ -78,13 +81,25 @@ class App extends React.Component {
             variant="outlined"
             onChange={(e) => this.setState({ searchTerm: e.target.value })}
           />
-          <Button type="submit" variant="contained">
+          <Button
+            type="submit"
+            variant="contained"
+            style={{
+              height: "60px",
+              margin: "10px",
+            }}
+          >
             Search
           </Button>
         </form>
-        {this.state.user ? (
-          <UserGraph user={this.state.user} userLists={this.state.userLists} />
-        ) : null}
+        <div className="container">
+          {this.state.user ? (
+            <UserGraph
+              user={this.state.user}
+              userLists={this.state.userLists}
+            />
+          ) : null}
+        </div>
       </div>
     );
   }

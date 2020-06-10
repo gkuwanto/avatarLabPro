@@ -22,6 +22,7 @@ const myConfig = {
   link: {
     highlightColor: "lightblue",
   },
+  width: window.innerWidth - 20,
 };
 
 // graph event callbacks

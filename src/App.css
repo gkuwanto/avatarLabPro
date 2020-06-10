@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.form TextField {
+}
