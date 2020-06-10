@@ -95,14 +95,10 @@ class UserGraph extends React.Component {
         links: [...this.state.links, ...friendLinks],
       });
     };
-    if (id in this.props.userLists) {
-      addUser(this.props.userLists[id]);
-    } else {
-      fetch("https://avatar.labpro.dev/friends/" + id)
-        .then((response) => response.json())
-        .then((json) => json.payload)
-        .then(addUser);
-    }
+    fetch("https://avatar.labpro.dev/friends/" + id)
+      .then((response) => response.json())
+      .then((json) => json.payload)
+      .then(addUser);
   };
   render() {
     return (
