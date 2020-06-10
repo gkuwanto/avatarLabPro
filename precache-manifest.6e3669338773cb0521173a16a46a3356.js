@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1cb79307e41b665c1d262a825a91687",
+    "revision": "9db012dd25a64efaeb9ff6b24006aee1",
     "url": "/avatarLabPro/index.html"
   },
   {
