@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/avatarLabPro/static/css/main.fa5b17b5.chunk.css",
-    "main.js": "/avatarLabPro/static/js/main.3ffedc14.chunk.js",
-    "main.js.map": "/avatarLabPro/static/js/main.3ffedc14.chunk.js.map",
+    "main.js": "/avatarLabPro/static/js/main.d4ae0d8d.chunk.js",
+    "main.js.map": "/avatarLabPro/static/js/main.d4ae0d8d.chunk.js.map",
     "runtime-main.js": "/avatarLabPro/static/js/runtime-main.f64bc9da.js",
     "runtime-main.js.map": "/avatarLabPro/static/js/runtime-main.f64bc9da.js.map",
     "static/js/2.dad8d524.chunk.js": "/avatarLabPro/static/js/2.dad8d524.chunk.js",
     "static/js/2.dad8d524.chunk.js.map": "/avatarLabPro/static/js/2.dad8d524.chunk.js.map",
     "index.html": "/avatarLabPro/index.html",
-    "precache-manifest.17bd587d500b8f8b5219031d9821f02f.js": "/avatarLabPro/precache-manifest.17bd587d500b8f8b5219031d9821f02f.js",
+    "precache-manifest.48bac9a0f19f39aa15367992cb522e5f.js": "/avatarLabPro/precache-manifest.48bac9a0f19f39aa15367992cb522e5f.js",
     "service-worker.js": "/avatarLabPro/service-worker.js",
     "static/css/main.fa5b17b5.chunk.css.map": "/avatarLabPro/static/css/main.fa5b17b5.chunk.css.map",
     "static/js/2.dad8d524.chunk.js.LICENSE.txt": "/avatarLabPro/static/js/2.dad8d524.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f64bc9da.js",
     "static/js/2.dad8d524.chunk.js",
     "static/css/main.fa5b17b5.chunk.css",
-    "static/js/main.3ffedc14.chunk.js"
+    "static/js/main.d4ae0d8d.chunk.js"
   ]
 }
