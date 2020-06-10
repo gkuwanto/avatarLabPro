@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/avatarLabPro/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/avatarLabPro/static/js/main.9b5ceb6c.chunk.js",
-    "main.js.map": "/avatarLabPro/static/js/main.9b5ceb6c.chunk.js.map",
+    "main.css": "/avatarLabPro/static/css/main.580c46bf.chunk.css",
+    "main.js": "/avatarLabPro/static/js/main.a8466e16.chunk.js",
+    "main.js.map": "/avatarLabPro/static/js/main.a8466e16.chunk.js.map",
     "runtime-main.js": "/avatarLabPro/static/js/runtime-main.f64bc9da.js",
     "runtime-main.js.map": "/avatarLabPro/static/js/runtime-main.f64bc9da.js.map",
     "static/js/2.dad8d524.chunk.js": "/avatarLabPro/static/js/2.dad8d524.chunk.js",
     "static/js/2.dad8d524.chunk.js.map": "/avatarLabPro/static/js/2.dad8d524.chunk.js.map",
     "index.html": "/avatarLabPro/index.html",
-    "precache-manifest.c3352f45c219f9e746bb2344ad3c117f.js": "/avatarLabPro/precache-manifest.c3352f45c219f9e746bb2344ad3c117f.js",
+    "precache-manifest.1f1856328ba03ba4ed21df6fb48cf560.js": "/avatarLabPro/precache-manifest.1f1856328ba03ba4ed21df6fb48cf560.js",
     "service-worker.js": "/avatarLabPro/service-worker.js",
-    "static/css/main.27fd15f6.chunk.css.map": "/avatarLabPro/static/css/main.27fd15f6.chunk.css.map",
+    "static/css/main.580c46bf.chunk.css.map": "/avatarLabPro/static/css/main.580c46bf.chunk.css.map",
     "static/js/2.dad8d524.chunk.js.LICENSE.txt": "/avatarLabPro/static/js/2.dad8d524.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f64bc9da.js",
     "static/js/2.dad8d524.chunk.js",
-    "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.9b5ceb6c.chunk.js"
+    "static/css/main.580c46bf.chunk.css",
+    "static/js/main.a8466e16.chunk.js"
   ]
 }
